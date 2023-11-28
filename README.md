@@ -12,4 +12,4 @@ Explore hands-on Jupyter notebooks covering various aspects of crypto algo tradi
 
 ## Contact
 
-Connect with me on [LinkedIn](https://www.linkedin.com/in/yourusername/) for discussions, collaborations, or potential opportunities. Your feedback is highly appreciated!
+Connect with me on [LinkedIn](https://www.linkedin.com/in/aaryan-gulia//) for discussions, collaborations, or potential opportunities. Your feedback is highly appreciated!
